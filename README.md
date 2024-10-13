@@ -65,5 +65,3 @@ This project is licensed under the MIT License. Do whatever you want, just don't
 
 Feel free to reach out if you have any questions or just want to chat. Happy logging!
 ```
-
-Feel free to customize it further to match your style!
