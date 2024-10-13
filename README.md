@@ -1,6 +1,4 @@
 
-
-```markdown
 # 🔑 Key-Logger
 
 Hey there! Welcome to the **Key-Logger** project. This is your go-to tool for logging keystrokes, whether you need it for debugging, monitoring usage, or just for fun. Let's get you set up!
